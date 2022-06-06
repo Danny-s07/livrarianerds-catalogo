@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+img
+{
+	max-width: 100%;
+	height: auto;
+}
+
+a.menulateral:link, a.menulateral:visited 
+{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+
+}
+
+li
+{
+    list-style: none;
+}
+
+a.menulateral:hover, a.menulateral:active
+{
+   font-weight: bold;
+}
+ 
+
+.corespecifica /*classe de cor do menu apenas da paginas do front end*/
+{
+    background-color: rgba(0, 0, 0, 0.678);
+}
+
+
+.tamimg
+{
+    width: 50px;
+    height: 50px;
+   
+}

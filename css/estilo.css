@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+
+/* posicao das notas dos livros de rankings */
+.testecss
+{
+    position: absolute;
+    width: 40px;
+	height: 40px;
+	border-radius: 50%;
+    background-color: #ffb320;
+    color: white;
+    margin-top: -355px;
+    /* padding-top: 8px; */
+    font-size: 25px;
+}
+
